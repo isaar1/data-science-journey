@@ -1,0 +1,11 @@
+CustomerID,Name,PurchaseAmount,JoinDate,Region
+101,Alice,250.0,2023-01-01,North
+102,Bob,150.0,2023-03-15,South
+103,Charlie,,2022-07-10,East
+104,David,500.0,2023-05-20,West
+105,Eve,1000.0,,North
+106,Frank,2000.0,2023-02-10,South
+107,Grace,750.0,2022-08-25,East
+108,Hank,300.0,2023-04-17,West
+109,Ivy,1200.0,2023-06-30,North
+110,Jack,,2022-11-12,South
